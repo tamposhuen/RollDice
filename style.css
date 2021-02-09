@@ -1,0 +1,28 @@
+body{
+  background-color:#003049;
+  color:#eae2b7;
+  font-family: "Amatic SC", cursive;
+  align-content: center;
+}
+
+h1{
+  text-align: center;
+  font-size: 8rem;
+  font-weight: 700;
+}
+
+p{
+  text-align: center;
+  font-size: 3rem;
+  margin: 7% auto;
+  font-weight: 400;
+}
+
+div{
+  text-align: center;
+}
+
+.btn {
+  font-size: 2rem;
+  margin: 7%;
+}
